@@ -1,5 +1,5 @@
 # DrivingScene
-![dataset_overview](./img/dataset_overview.png)
+![dataset_overview](./dataset_overview.png)
 
 This is the repository for the DrivingScene Dataset.
 
@@ -9,7 +9,7 @@ We provide 52 different kinds of driving scenes, cutting across common driving i
 
 # Dataset stats
 
-![image-20220705101400493](./img/stats.png)
+![image-20220705101400493](./stats.png)
 
 
 
