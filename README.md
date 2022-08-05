@@ -1,7 +1,8 @@
 # DrivingScene
 ![dataset_overview](./dataset_overview.png)
 
-This is the repository for the DrivingScene Dataset.
+This is the repository for the DrivingScene Dataset from <a href="https://pan.baidu.com/s/17a6px92W5vkASjC31IG-Wg ">Deep Integration: A Multi-Label Architecture
+for Road Scene Recognition</a>.
 
 # Overview
 
